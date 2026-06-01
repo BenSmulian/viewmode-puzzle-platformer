@@ -1,0 +1,20 @@
+## This is a Godot project.
+it is a platformer game that focuses on perspective
+
+### Here are some technical details:
+1. It is connected to the fallowing github repository:
+	github.com/BenSmulian/viewmode-puzzle-platformer
+2. It has two people working on it, ben and ofek.
+3. it has started development on the first of july 2026.
+4. It is targeted to pc devices only until release.
+
+### Some personal details:
+1. It is made for ben and ofek, not for it to publish online, therefor it must focus on their wantings, and not for the general need.
+2. The scope should not grow until release, to avoid scope creap.
+3. The entire plan should be written in this directory and or in nested ones, to avoid clutter and target development.
+
+### What's in this directory?
+This is a directory that concluds the plannings, "to-do"s, and goals for this project.
+
+#### here is the explanation of the perpose of each file:
+- [[]]
